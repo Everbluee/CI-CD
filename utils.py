@@ -1,11 +1,13 @@
 """Module providing unit tests."""
+
+
 def add(a: int, b: int) -> int:
     """Function for adding numbers"""
     return a + b
 
 
 def subtract(a: int, b: int) -> int:
-    """Function for substracting numbers"""
+    """Function for subtracting numbers"""
     return a - b
 
 
